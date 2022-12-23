@@ -1,5 +1,5 @@
 # Renting Bike System
-This is my final project as part of Business Analytics training in WiT in tech program at Paper Airplanes.
+This is my final project as part of Business Analytics training in WiT program at Paper Airplanes.
 
 Project Abstract:
 
